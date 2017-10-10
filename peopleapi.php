@@ -1,7 +1,7 @@
 <?php
 class Person {
 var $personID;
-var $fristName;
+var $firstName;
 var $lastName;
 }
 $items = array();
